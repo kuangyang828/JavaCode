@@ -1,4 +1,4 @@
-package oopexer4;
+package exer.oopexer4;
 
 /**
  * 写一个测试类，创建两个Circle对象，判断其颜色是否相等；

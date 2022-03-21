@@ -1,13 +1,17 @@
-package oopexer2;
+package exer.oopexer1;
 
 public class Customer {
     private String firstName;
     private String lastName;
     private Account account;
 
-    Customer(String f, String l) {
+    public Customer(String f,String l){
         firstName = f;
         lastName = l;
+    }
+
+    public Account getAccount() {
+        return account;
     }
 
     public void setAccount(Account account) {
@@ -22,7 +26,4 @@ public class Customer {
         return lastName;
     }
 
-    public Account getAccount() {
-        return account;
-    }
 }

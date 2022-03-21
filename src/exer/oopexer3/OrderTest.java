@@ -1,6 +1,4 @@
-package oopexer3;
-
-import java.util.Objects;
+package exer.oopexer3;
 
 /**
  * 编写Order类，有int型的orderld， String型的orderName，

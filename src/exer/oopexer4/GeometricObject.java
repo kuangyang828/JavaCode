@@ -1,4 +1,4 @@
-package oopexer4;
+package exer.oopexer4;
 
 public class GeometricObject {
     protected String color;

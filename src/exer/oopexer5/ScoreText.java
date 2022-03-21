@@ -1,4 +1,4 @@
-package oopexer5;
+package exer.oopexer5;
 
 import java.util.Scanner;
 import java.util.Vector;
@@ -42,7 +42,7 @@ public class ScoreText {
         for (int i = 0; i < vector.size(); i++) {
             Object o = vector.elementAt(i);
             int score = (int) o;//自动拆箱
-            if (maxScore - score <= 10) {                                                                                                
+            if (maxScore - score <= 10) {
                 level = 'A';
             } else if (maxScore - score <= 20) {
                 level = 'B';

@@ -1,6 +1,4 @@
-package oopexer3;
-
-import java.util.Objects;
+package exer.oopexer3;
 
 public class MyDateTest {
     public static void main(String[] args) {

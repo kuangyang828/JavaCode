@@ -1,4 +1,4 @@
-package oopexer1;
+package exer.oopexer1;
 
 public class Account {
     private int id;//账号

@@ -1,4 +1,4 @@
-package oopexer2;
+package exer.oopexer2;
 
 public class Bank {
     private Customer[] customers;

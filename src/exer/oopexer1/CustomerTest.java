@@ -1,4 +1,4 @@
-package oopexer1;
+package exer.oopexer1;
 
 public class CustomerTest {
     public static void main(String[] args) {

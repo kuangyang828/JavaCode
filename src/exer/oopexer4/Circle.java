@@ -1,6 +1,4 @@
-package oopexer4;
-
-import java.util.Objects;
+package exer.oopexer4;
 
 public class Circle extends GeometricObject {
     private double radius;
