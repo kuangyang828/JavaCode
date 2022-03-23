@@ -23,7 +23,7 @@ public class DAOTest {
 
         dao.update("1003", new User(1003, 30, "阿信"));
 
-        dao.delete("1002");
+//        dao.delete("1002");
 
         List<User> list = dao.list();
 //        System.out.println(list);
